@@ -1,4 +1,4 @@
-# <div align="center" width="500">console.log("I'm Dima")</div>
+# <div align="center" width="500">console.log("Hello, I'm Dima")</div>
 
 ### <div align="center">I'm a full-stack developer 💻</div>
 
