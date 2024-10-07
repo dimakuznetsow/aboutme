@@ -2,9 +2,6 @@
 
 ### <div align="center">I'm a full-stack developer 💻</div>
 
-- 🗺️ I’m currently working on [Visited](https://github.com/dimakuznetsow/Visited)
-
-- 🤓 I’m currently learning full stack web development at [Masterschool](https://www.masterschool.com/)
 
 - 🙋‍♂️ I’m looking to collaborate on anything 🎉
 
